@@ -1,0 +1,4 @@
+Bundle-Name: liferaysavvy-gradle-clayform
+Bundle-SymbolicName: com.liferaysavvy.gradle.clayform
+Bundle-Version: 1.0.0
+Export-Package: com.liferaysavvy.gradle.clayform.constants
