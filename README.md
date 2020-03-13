@@ -6,3 +6,4 @@ locate to project or import into your IDE run following gradle tasks.
 Update Liferay Home path in build.gradle file.
 * `gradlew build`
 * `gradlew deploy`
+## Documentation 
