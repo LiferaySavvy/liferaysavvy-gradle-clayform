@@ -10,4 +10,4 @@ Update Liferay Home path in build.gradle file.
 * `gradle build`
 * `gradle deploy`
 ## Documentation 
-* http://www.liferaysavvy.com/2020/03/liferay-clay-form-elements-tag-libraries.html
+* [Liferay Clay Form Elements Tag Libraries](http://www.liferaysavvy.com/2020/03/liferay-clay-form-elements-tag-libraries.html)
